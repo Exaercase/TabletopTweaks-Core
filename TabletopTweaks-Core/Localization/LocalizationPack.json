@@ -7,7 +7,7 @@
       "enGB": "You must be wielding your Black Blade",
       "ruRU": "Вы должны держать свой Чёрный Клинок",
       "deDE": null,
-      "frFR": null,
+      "frFR": "Il faut que vous Brandissiez votre Lame Noire.",
       "zhCN": "你必须持有黑刃",
       "esES": null
     },
@@ -15,7 +15,7 @@
       "Key": "29a03fd78b924ea8b0e1fdb5a359c961",
       "SimpleName": "AbilityTargetNoSplitHexRepeat.UI",
       "ProcessTemplates": false,
-      "enGB": "Cannot target the same unit twice with Split Hex.",
+      "enGB": "Il est impossible de cibler la même unité deux fois avec Maléfice Partagé.",
       "ruRU": null,
       "deDE": null,
       "frFR": null,
